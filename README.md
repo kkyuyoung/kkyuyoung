@@ -1,5 +1,8 @@
 <div align=center>
+
+<!--
 <img src="https://capsule-render.vercel.app/api?type=wave&color=F4BBBB&height=300&section=header&text=Kyuyoung%20Han&fontSize=90&fontColor=000000&animation=fadeIn" />
+-->
 
 <h3>:cherry_blossom: Intro :cherry_blossom:</h3>
 <p>Web application developer trying to improve code quality</P>
